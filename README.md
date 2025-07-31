@@ -11,14 +11,14 @@
 
 Cette application vise à fournir une interface intuitive pour la **gestion des congés en entreprise**, tout en intégrant une gestion hiérarchique à travers un organigramme et des rôles.
 
-🧑‍🤝‍🧑 **Projet réalisé en groupe dans le cadre d’un travail universitaire**  
-**Groupe n°4**
+🧑‍🤝‍🧑 **Projet réalisé en groupe dans le cadre d’un travail universitaire, Fac de Science de L'UNIKIN Math-Info**  
+**Groupe n°7**
 
 ---
 
 ## ⚙️ Technologies & Librairies utilisées
 
-- **Python 3.11+** : Langage principal
+- **Python 3.13** : Langage principal
 - **PySide6** : Interface graphique moderne (basée sur Qt 6)
 - **MySQL** : Base de données relationnelle
 - **mysql-connector-python** : Connecteur entre Python et MySQL
@@ -64,8 +64,8 @@ Le projet est fonctionnel dans ses grandes lignes, mais **nécessite encore plus
 ## 🧑‍💻 Auteurs & Contributeurs
 
 - **Marc Lightning M.** – Développeur principal, intégration UI, structure de la base de données  
-- **Groupe 4** – Travail collaboratif (analyse, conception, modélisation et tests)  
-- **Nova (ChatGPT - OpenAI)** – Support IA pour la génération de code, rédaction, aide à la documentation
+- **Groupe 7** – Travail collaboratif (analyse, conception, modélisation et tests)  
+- **Nova** – Support IA pour la génération de code, rédaction, aide à la documentation
 
 ---
 
@@ -79,7 +79,7 @@ Utilisation libre à condition de créditer les auteurs.
 ## 📩 Contact
 
 📧 Pour toute contribution, retour ou suggestion :  
-`votre.email@exemple.com` *(à remplacer par votre adresse)*
+`lightningmarc2@gmail.com`
 
 ---
 
